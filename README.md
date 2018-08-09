@@ -59,7 +59,7 @@ Install the required python 2.7 libaries:
 ```
 git clone https://github.com/SpiderLabs/social_mapper
 cd social_mapper/setup
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 Provide Social Mapper with Credentials to log into social media services:
